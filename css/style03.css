@@ -1,0 +1,42 @@
+#hello {
+    border: 1px solid;
+    height: 150px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+
+#world {
+    
+    height: 150px;
+    margin-bottom: 50px;
+    display: flex;
+    
+}
+
+
+#A1 {
+    
+    background-color: rgb(0, 234, 255);
+    flex-basis: 50%;
+    border: 1px solid;
+    
+}
+
+#A2 {
+    background-color: rgb(0, 255, 119);
+    flex-basis: 50%;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+#brother {
+    border: 1px solid;
+    height: 150px;
+    background-color: blue;
+    margin-bottom: 10px;
+}

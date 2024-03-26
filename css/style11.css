@@ -1,0 +1,29 @@
+.myBox {
+    display: flex;
+    justify-content: space-evenly;
+    height: 1330px;
+}
+
+
+header,
+main,
+footer {
+    flex: 1px;
+    border: 1px;
+    margin: 30px;
+    
+}
+
+header {
+    background-color: aqua;
+    ;
+}
+
+main {
+    background-color: green;
+    
+}
+
+footer {
+    background-color: coral;
+}

@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    height: 1000px;
+    
+    align-items: stretch;
+}
+
+
+.vertical-box {
+    width: 30%;
+    background-color: blue;
+    flex-direction: row;
+    height: 100%;
+}
+.main-horizontal{
+display: flex ;
+width: 50%;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
+.horizontal-box1 {
+    width: 100%;
+    background-color: chocolate;
+    margin-bottom: 10px;
+    height: 500px;
+}
+.horizontal-box2 {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(38, 158, 169);
+    border-top: 2px;
+    
+}
