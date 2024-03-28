@@ -1,11 +1,11 @@
-#hello {
+.hello {
     border: 1px solid;
     height: 150px;
     background-color: red;
     margin-bottom: 10px;
 }
 
-#world {
+.world {
     
     height: 150px;
     background-color: white
@@ -32,15 +32,17 @@
     margin-left: 10px;
 }
 
+.fullbox{ flex: 1px;}
 
 
 
 
 
-
-#brother {
+.brother {
     border: 1px solid;
     height: 150px;
-    background-color: blue;
-    margin-bottom: 10px;
+    background-color: rgb(68, 0, 255);
+    margin: 10px;
+    
+
 }
